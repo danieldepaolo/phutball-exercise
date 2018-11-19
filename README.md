@@ -1,5 +1,13 @@
 # phutball-exercise
 Implementation of the game Phutball in React for a coding exercise.
+
+To run:
+
+0. Make sure to have yarn and node installed on your machine
+1. Download the source code
+2. Run "yarn" command in the directory
+3. Run "yarn start" to run the program
+
 --------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
